@@ -22,7 +22,7 @@
 * 딥러닝  
 * 블록체인  
 
-![seeleeds icon](/시리즈 로고.jpg)
+![seeleeds icon](/seeleeds icon.jpg)
 
 ---------------
 ## 오픈소스 커뮤니티 정리파일  
