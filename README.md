@@ -5,3 +5,8 @@
 #### 이름 : 박준영
 #### email : junyoung6220@naver.com
 #### university : hallym university
+
+> 취미
+>> 야구  
+>> 농구  
+>> 자전거  
