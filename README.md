@@ -22,7 +22,7 @@
 * 딥러닝  
 * 블록체인  
 
-![seeleeds icon](/seeleeds icon.jpg)
+![linux icon](/linux.png)
 
 ---------------
 ## 오픈소스 커뮤니티 정리파일  
