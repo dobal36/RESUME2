@@ -22,6 +22,9 @@
 * 딥러닝  
 * 블록체인  
 ---------------
+## 오픈소스 커뮤니티 정리파일
+[오픈소스 커뮤니티 파일](openSourceCommunity.md}
+-----------------
 * jupyter notebook  
 * tensorflow  
 --------
